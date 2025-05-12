@@ -114,5 +114,5 @@ People often possess unique skills but lack a platform to share them locally and
 - Write unit tests and containerize the application with Docker.
 - Implement Google Meet and Calendar integration for task scheduling and virtual meetings.
 
-## Thank You
+## THANK YOU
 
